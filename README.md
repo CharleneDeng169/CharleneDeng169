@@ -1,10 +1,14 @@
 <h1>Hi, I'm Charlene! <br/>
 
+
+[![Twitter Badge](https://img.shields.io/badge/-@charlenedeng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/CharleneDe70238) [![Linkedin Badge](https://img.shields.io/badge/-charlenedeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/charlenedeng/) 
+[![Gmail Badge](https://img.shields.io/badge/-charlenedeng@brandeis.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:charlenedeng@brandeis.edu)
+
+
 <h2> 🧑‍🎓 Introduction </h2>
 
 -  💬 Recent graduate of a master’s degree program in Business Analytics.
 -  🌱 Experienced in market analysis with proficiency in analyzing data trends, creating visualization, and making data-driven predictions using SQL, Python, and Tableau.
--   🤳 Connect with me: <a href="https://www.linkedin.com/in/charlenedeng/">Charlene's Linkedin</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
