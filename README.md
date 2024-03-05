@@ -9,7 +9,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Machine Learning Practice (AlgoExpert)</b>
-  - [Spotify songs Classification](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Spotify songs Classification](https://github.com/CharleneDeng169/Spotify-songs)
 
 <h2>📄 Certification</h2>
 
