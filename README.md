@@ -10,7 +10,7 @@
 -  💬 Recent graduate of a master’s degree program in Business Analytics.
 -  🌱 Experienced in market analysis with proficiency in analyzing data trends, creating visualization, and making data-driven predictions using SQL, Python, and Tableau.
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Data Analyst Projects</h2>
 
 - <b>Machine Learning Practice </b>
   - [Spotify songs Classification](https://github.com/CharleneDeng169/Spotify-songs)
