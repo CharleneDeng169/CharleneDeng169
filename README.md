@@ -12,8 +12,9 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Machine Learning Practice (AlgoExpert)</b>
+- <b>Machine Learning Practice </b>
   - [Spotify songs Classification](https://github.com/CharleneDeng169/Spotify-songs)
+  - [Predicting Stock Volatility from Financial Reports with Regression(NLP)](https://github.com/CharleneDeng169/Predicting_Stock_Volatility)
 
 <h2>📄 Certification</h2>
 
