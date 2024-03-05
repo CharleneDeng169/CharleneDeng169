@@ -3,6 +3,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@charlenedeng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/CharleneDe70238) [![Linkedin Badge](https://img.shields.io/badge/-charlenedeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/charlenedeng/) 
 [![Gmail Badge](https://img.shields.io/badge/-charlenedeng@brandeis.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:charlenedeng@brandeis.edu)
+  <a href="https://github.com/CharleneDeng169">
+    <img src="https://komarev.com/ghpvc/?username=CharleneDeng169" alt="page views">
+  </a>
 
 
 <h2> 🧑‍🎓 Introduction </h2>
