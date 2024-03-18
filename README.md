@@ -22,3 +22,9 @@
 <h2>📄 Certification</h2>
 
   - [Tableau Desktop Specialist](https://www.credly.com/badges/c8cdd32c-c562-491c-bb66-4ab8ee2da707/linked_in?t=s3rvda)
+
+<h2>❤️ Interest</h2>
+
+  - Huge fan of "Friends"
+  - Enthusiastic admirer of the Middle Earth
+  - Enjoy playing tennis🎾
