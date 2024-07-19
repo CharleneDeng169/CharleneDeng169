@@ -10,7 +10,8 @@
 
 <h2> 🧑‍🎓 Introduction </h2>
 
--  💬 Recent graduate of a master’s degree program in Business Analytics.
+-  💬 Recent graduate with a Master's in Business Analytics, along with a Bachelor's in Business Administration and a minor in Psychology.
+-  💪  I am adept at translating complex data into actionable insights that drive strategic business decisions.    
 -  🌱 Experienced in market analysis with proficiency in analyzing data trends, creating visualization, and making data-driven predictions using SQL, Python, and Tableau.
 
 <h2>👨‍💻 Data Analyst Projects</h2>
