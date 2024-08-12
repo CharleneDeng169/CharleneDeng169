@@ -20,6 +20,9 @@
   - [Spotify songs Classification](https://github.com/CharleneDeng169/Spotify-songs)
   - [Predicting Stock Volatility from Financial Reports with Regression(NLP)](https://github.com/CharleneDeng169/Predicting_Stock_Volatility)
 
+-<b>Data Visualization Practice </b>
+  - [HR Analytics Dashboard] (https://public.tableau.com/views/HRANALYTCISDASHBOARD/HRanalyticsdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <h2>📄 Certification</h2>
 
   - [Tableau Desktop Specialist](https://www.credly.com/badges/c8cdd32c-c562-491c-bb66-4ab8ee2da707/linked_in?t=s3rvda)
