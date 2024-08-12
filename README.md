@@ -21,7 +21,7 @@
   - [Predicting Stock Volatility from Financial Reports with Regression(NLP)](https://github.com/CharleneDeng169/Predicting_Stock_Volatility)
 
 -<b>Data Visualization Practice </b>
-  - [HR Analytics Dashboard] (https://public.tableau.com/views/HRANALYTCISDASHBOARD/HRanalyticsdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [HR Analytics Dashboard](https://public.tableau.com/app/profile/penghui.deng/viz/HRANALYTCISDASHBOARD/HRanalyticsdashboard)
 
 <h2>📄 Certification</h2>
 
