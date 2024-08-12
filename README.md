@@ -20,7 +20,7 @@
   - [Spotify songs Classification](https://github.com/CharleneDeng169/Spotify-songs)
   - [Predicting Stock Volatility from Financial Reports with Regression(NLP)](https://github.com/CharleneDeng169/Predicting_Stock_Volatility)
 
--<b>Data Visualization Practice </b>
+- <b>Data Visualization Practice </b>
   - [HR Analytics Dashboard](https://public.tableau.com/app/profile/penghui.deng/viz/HRANALYTCISDASHBOARD/HRanalyticsdashboard)
 
 <h2>📄 Certification</h2>
