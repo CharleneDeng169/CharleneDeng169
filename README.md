@@ -22,6 +22,7 @@
 
 - <b>Data Visualization Practice </b>
   - [HR Analytics Tableau Dashboard](https://public.tableau.com/app/profile/penghui.deng/viz/HRANALYTCISDASHBOARD/HRanalyticsdashboard)
+  - [Customer Behavior Analysis Using SQL and Tableau](https://public.tableau.com/app/profile/penghui.deng/viz/CustomerBehaviorAnalysisUsingSQLandTableau/Overview)
 
 <h2>📄 Certification</h2>
 
